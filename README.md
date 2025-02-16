@@ -1,3 +1,3 @@
 # Image-slider
 The Demo:
-https://liliantarek.github.io/Image-slider/
+https://lilian-tarek.github.io/Image-slider/
